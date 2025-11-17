@@ -157,7 +157,7 @@ print("Model saved as:", CHECKPOINT_PATH)
 ```
 
 ## Output:
-<img width="961" height="861" alt="image" src="https://github.com/user-attachments/assets/e2248e57-4288-434d-ac47-bfe03c101a1b" />
+<img width="704" height="843" alt="image" src="https://github.com/user-attachments/assets/dfc05a72-e168-425d-9200-07050b34babe" />
 
 ## Result:
 Thus  image classification model using transfer learning in PyTorch to predict whether an image belongs to a cat, dog, or panda is implemented successfully.
